@@ -1,6 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+// 全局样式
 import './index.css';
+// 组件样式
+// import 'antd-mobile/dist/antd-mobile.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
